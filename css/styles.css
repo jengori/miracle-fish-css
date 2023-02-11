@@ -1,0 +1,101 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+nav {margin-left: 50px;}
+
+p {
+    margin:auto;
+    width: 40%;
+}
+
+table {
+    border: 1px solid;
+    border-color: white;
+    border-collapse: collapse;
+}
+
+td, th {
+    line-height: 1.5;
+    padding: 0px 8px 0px;
+}
+
+tr:nth-child(even) {
+    background: #3D3D3D;
+}
+
+
+
+.fish {
+    display: block;
+    margin: 50px auto 50px;
+    width: 40%;
+  }
+
+
+.intro {
+    margin: auto;
+    width: 40%px;
+}
+
+.black-section {
+    background-color: black;
+    color: white;
+    padding: 30px 60px 50px;
+}
+
+.fish-meanings {
+    margin: 50px auto 50px;
+    text-align: left;
+}
+
+.footer-text {
+    width: 60%;
+}
+
+.navbar-item {
+    padding: 3px 10px 3px;
+}
+
+.stone-section {
+    background-image: url("../img/stone.jpeg");
+    color: white;
+    padding: 30px 60px 50px;  
+}
+
+.title_section {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.trivia-list {
+    margin: auto;
+    text-align: left;
+    width: 40%;}
+
+.white-section {
+    padding: 30px 60px 50px;    
+}
+
+
+
+
+
+
+
