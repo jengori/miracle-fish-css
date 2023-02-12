@@ -1,6 +1,6 @@
 # Code First Girls Web Development Course
 
-This is my second homework assignment for week 2 of the Code First Girls (https://codefirstgirls.com) Web Dev course.
+This is my homework assignment for week 2 of the Code First Girls (https://codefirstgirls.com) Web Dev course.
 
 ### The brief
 
